@@ -14,19 +14,17 @@
 
 ### Choosing domain area of value
 
-- comedy movie ratings
+- London Air qulity from jan 1 2018 - jan 1 2019
 
 ### dataset we used
 
 - LaqnData.csv
-  - [click here to look at it](https://csus.instructure.com/files/18364618/download?download_frd=1)
+  - [click here to look at it](https://raw.githubusercontent.com/vstatnyk/CSC177/main/project-1/LaqnData.csv)
 
 ### preparing data
 
-- plenty of movies that are not comedies
-- some missing values were introduced
-- unsorted data
-- Other irrelevant data was present
+- ordered by species, but everything is clumped together
+- missing values
 
 ---
 
@@ -34,4 +32,4 @@
 
 ## Documenting summary
 
-### section A
+### section A Documenting or describing a comprehensive set of techniques for preprocessing.
